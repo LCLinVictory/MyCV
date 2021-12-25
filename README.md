@@ -1,2 +1,2 @@
 # MyCV
-Personal CV
+Welcome to my personal CV.
